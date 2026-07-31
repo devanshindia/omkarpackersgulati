@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "series": "Keeper Series",
+    "name": "Keeper 00",
+    "images": [
+      "images/products/Keeper 00.jpg",
+      "images/products/Keeper 00 (2).jpg",
+      "images/products/Keeper 00 (3).jpg",
+      "images/products/Keeper 00 (4).jpg",
+      "images/products/Keeper 00 (5).jpg",
+      "images/products/Keeper 00 (6).jpg"
+    ],
+    "application": [
+      "Jewellery",
+      "Bangles",
+      "Medicines"
+    ],
+    "tax": "18%",
+    "hsn": "3923"
+  },
+
+  {
+    "id": 2,
+    "series": "Keeper Series",
+    "name": "Keeper 11",
+    "images": [
+      "images/products/Keeper 11.jpg",
+      "images/products/Keeper 11 (2).jpg",
+      "images/products/Keeper 11 (3).jpg",
+      "images/products/Keeper 11 (4).jpg"
+    ],
+    "application": [
+      "Jewellery",
+      "Bangles"
+    ],
+    "tax": "18%",
+    "hsn": "3923"
+  },
+
+  {
+    "id": 3,
+    "series": "Kangan Series",
+    "name": "Kangan 11",
+    "images": [
+      "images/products/Kangan 11.jpg",
+      "images/products/Kangan 11 (2).jpg",
+      "images/products/Kangan 11 (3).jpg"
+    ],
+    "application": [
+      "Bangles"
+    ],
+    "tax": "18%",
+    "hsn": "3923"
+  }
+]
